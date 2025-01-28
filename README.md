@@ -1,2 +1,1 @@
-# bookbot
-Self learning GitHub project
+BookBot is my first project!

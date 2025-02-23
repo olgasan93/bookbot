@@ -29,9 +29,3 @@ def alphabet_sorter(dict):
     print(alphabet_list)
 
 
-
-
-
-
-
-#I have key and value in my dictionary
